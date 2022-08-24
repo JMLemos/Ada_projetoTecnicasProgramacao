@@ -1,0 +1,15 @@
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\bin\Debug\net6.0\ConsumoApi.exe
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\bin\Debug\net6.0\ConsumoApi.deps.json
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\bin\Debug\net6.0\ConsumoApi.runtimeconfig.json
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\bin\Debug\net6.0\ConsumoApi.dll
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\bin\Debug\net6.0\ConsumoApi.pdb
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.csproj.AssemblyReference.cache
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.AssemblyInfoInputs.cache
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.AssemblyInfo.cs
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.csproj.CoreCompileInputs.cache
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.dll
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\refint\ConsumoApi.dll
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.pdb
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ConsumoApi.genruntimeconfig.cache
+C:\Users\jlemo\source\repos\TecnicasDeProgramacao\ConsumoApi\obj\Debug\net6.0\ref\ConsumoApi.dll
